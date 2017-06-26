@@ -10,4 +10,3 @@ PS1='[\u@\h \W]\$ '
 
 export EDITOR=/usr/sbin/vim
 export PATH=$PATH:~/.bin:~/.scripts
-cd ~
